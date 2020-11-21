@@ -1,0 +1,52 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.content {
+  width: 100%;
+}
+
+.profile img {
+  width: 80px;
+  border-radius: 26px;
+}
+
+.p__name h2 {
+  font-size: 1.3em;
+  font-weight: 600;
+  line-height: 1.2;
+  font-family: cursive;
+}
+
+.acc__details .myshadow {
+  width: 25px;
+  height: 25px;
+}
+
+.acc__details p {
+  font-weight: 500;
+}
+
+.transaction__sec h2 {
+  font-weight: 600;
+}
+
+.transaction__sec p {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.details img {
+  width: 80px;
+  border-radius: 26px;
+}
+
+.details h2 {
+  font-weight: 600;
+}
+
+.details h3 {
+  font-weight: 600;
+}
