@@ -1,10 +1,11 @@
 import "./App.css";
+import Display from "./screens/Display";
 import "tailwindcss/dist/tailwind.css";
 
 function App() {
   return (
     <div className="App">
-     <h2 className="text-red-600 bg-blue-800">Hello World</h2>
+      <Display />
     </div>
   );
 }
