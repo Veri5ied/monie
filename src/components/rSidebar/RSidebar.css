@@ -1,0 +1,10 @@
+.profile img {
+  width: 80px;
+  border-radius: 26px;
+}
+
+.p__name h2 {
+  font-size: 1.3em;
+  font-weight: 600;
+  line-height: 1.2;
+}
